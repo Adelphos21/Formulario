@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    padding: 3vh 3vw;
+    width: 45vw;
+    border-radius: 5px;
+    box-shadow: 5px 5px lightgray;
+    background-color: #437095;
+    margin: 0 auto;
+    
+}
+.caja-titulo{
+    background-color: #437095;
+    width: 16rem;
+    margin: 3vh 27.5vw;
+    border-radius: 5px;
+    box-shadow: 3px 3px lightgray;
+}
+.caja-titulo h4{
+    padding: 2vh 2vw;
+    font-size:20px;
+}
+.caja-1{
+    background-color: #134F80;
+    width: 35vw;
+    border-radius: 4px;
+    margin: 1vh 0vw;
+    margin-bottom: 1;
+}
+.caja-1 p{
+    font-size: 20px;
+    padding: 1vh 0.5vw;
+}
+.input1{
+    padding-left: 0.5vw;
+    height: 5vh;
+    margin: 0.5vh 0vw;
+    background-color: #bdd1e2;
+    border: solid #245d8b 1px;
+    border-radius: 5px;
+}
+.input2{
+    width: 26.2vw;
+    padding-left: 0.5vw;
+    height: 5vh;
+    margin: 0.5vh 0vw;
+    background-color: #bdd1e2;
+    border: solid #245d8b 1px;
+    border-radius: 5px;
+}
+.input3{
+    padding-left: 0.5vw;
+    height: 5vh;
+    width: 13vw;
+    margin: 0.5vh 0vw;
+    background-color: #bdd1e2;
+    border: solid #245d8b 1px;
+    border-radius: 5px;
+}
+.enviar{
+    border: solid #245d8b 1px;
+    background: #bdd1e2;
+    width: 26.2vw;
+    padding: 1.5vh 2vw;
+    border-radius: 5px;
+}
+body{
+    background-color: #2F5066;
+}
